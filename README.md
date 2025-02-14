@@ -34,7 +34,7 @@ Este projeto é um Gerenciador de Tarefas inspirado no Trello, desenvolvido em R
 
 2. Acesse o diretório do projeto:
     ```bash
-    cd task-manager
+    cd  Gerenciador-Tarefas
     ```
 
 3. Instale as dependências:
